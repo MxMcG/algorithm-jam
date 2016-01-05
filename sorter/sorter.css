@@ -1,0 +1,35 @@
+.main-container {
+  height: 75%;
+  width: 75%;
+  border: 1px solid green;
+  width: 80%;
+  color: green;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.list-form {
+  background-color: lightblue;
+  width: 40%;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+.show-sorted {
+  width: 20%;
+  margin-top: 2em;
+  padding: 1em;
+  background-color: lightgreen;
+  margin: 0 auto;
+}
+
+.clear-btn {
+  display: none;
+  width: 4em;
+  height: 2em;
+}
+
+body {
+  height: 80em;
+  background-color: lightgray;
+}
